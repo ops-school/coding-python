@@ -20,10 +20,10 @@ python check_palindrom.py b → No!
 
 After you have completed the above implementation of the code and the script can run from cmd like the above examples show, follow each of the below steps and implement as requested:
 
-*NOTE*: It is important you implement each step by it's own, please don't rush yourself to do all the steps at once. Trust me, this will better help you learn the concepts of testing.
+**NOTE**: It is important you implement each step by it's own, please don't rush yourself to do all the steps at once. Trust me, this will better help you learn the concepts of testing.
 
-*Step2* - Add tests to your initial implementation! Run them with “pytest” make sure they pass. Make sure you cover the 2 rules mentioned at Step1
-*Step3* - Implement that the letters “I”,"i",“A”, "a" are also palindroms (Remember, you can still ignore case sensitivity)
-*Step4* - Add more tests for Step3. Run them with “pytest” make sure they all pass.
-*Step5* - Make the palindrom check ignore case sensativity. This means that for words like "abBa" or "BOb" your check should return “Yes!”.
-*Step6* - Add more tests for Step5. Run them with “pytest” make sure they all pass.
+**Step2** - Add tests to your initial implementation! Run them with “pytest” make sure they pass. Make sure you cover the 2 rules mentioned at Step1 \
+**Step3** - Implement that the letters “I”,"i",“A”, "a" are also palindroms (Remember, you can still ignore case sensitivity) \
+**Step4** - Add more tests for Step3. Run them with “pytest” make sure they all pass. \
+**Step5** - Make the palindrom check ignore case sensativity. This means that for words like "abBa" or "BOb" your check should return “Yes!”. \
+**Step6** - Add more tests for Step5. Run them with “pytest” make sure they all pass.
